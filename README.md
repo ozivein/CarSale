@@ -1,118 +1,187 @@
-![](RackMultipart20240106-1-sg689f_html_82d6eae1aab4f32b.png) ![Shape1](RackMultipart20240106-1-sg689f_html_a765ab17bd3b76f2.gif)
+<img src="./43fea6f1ce0be7ff03d135f36e96792d8e52f82c.png"
+style="width:11.6913in;height:0.88298in" />
 
-Subscribe to DeepL Pro to edit this document.
-Visit [www.DeepL.com/pro](https://www.deepl.com/pro?cta=edit-document) for more information.
+First of all, I made the necessary analyzes. I made a list of which
+tables are
+needed.<img src="./media/image1.jpeg" style="width:6.29722in;height:8.39375in"
+alt="C:\Users\oguzh\AppData\Local\Microsoft\Windows\INetCache\Content.Word\WhatsApp Image 2024-01-05 at 04.18.45_50822486.jpg" />
 
-First of all, I made the necessary analyzes. I made a list of which tables are needed. ![](RackMultipart20240106-1-sg689f_html_b6e1ac80a9f79288.jpg)
+After making a few additions, I decided on the tables to be created.
+Then we drew the ER Diagram before creating these tables, this task was
+undertaken by my friend Ender.
 
-After making a few additions, I decided on the tables to be created. Then we drew the ER Diagram before creating these tables, this task was undertaken by my friend Ender.
-
-![Shape2](RackMultipart20240106-1-sg689f_html_d5bc2c39b85a7363.gif)
+![](./media/image2.png)
 
 Then I created the tables and drew the Database schema.
 
-![](RackMultipart20240106-1-sg689f_html_49282398f3db5c10.png) ![](RackMultipart20240106-1-sg689f_html_431c1582b2674ea7.png) ![](RackMultipart20240106-1-sg689f_html_9203eff9f9a4ca5e.png) ![](RackMultipart20240106-1-sg689f_html_1949a1812e963b4b.png) ![](RackMultipart20240106-1-sg689f_html_4328403b0da3da89.png)
+<img src="./media/image3.png"
+style="width:1.48852in;height:0.83043in" /><img src="./media/image4.png"
+style="width:1.49028in;height:0.81818in" /><img src="./media/image5.png"
+style="width:1.64748in;height:0.74162in" /><img src="./media/image6.png"
+style="width:1.14707in;height:0.72115in" /><img src="./media/image7.png"
+style="width:1.50909in;height:0.43246in" />
 
-![](RackMultipart20240106-1-sg689f_html_dbb7ba882c20718.png)
+<img src="./media/image8.png"
+style="width:6.29097in;height:3.57569in" />
 
 Then I started making form designs.
 
 Home Screen :
 
-![](RackMultipart20240106-1-sg689f_html_15c999ead06890e1.png)
+<img src="./media/image9.png" style="width:2.19484in;height:3.0093in" />
 
 The screen that appears when we press the login button:
 
-![](RackMultipart20240106-1-sg689f_html_efdabc6a627b3353.png)
+<img src="./media/image10.png"
+style="width:2.05513in;height:2.85965in" />
 
 Registration panel :
 
-![](RackMultipart20240106-1-sg689f_html_bc6e97c289f5f57f.png)
+<img src="./media/image11.png"
+style="width:2.08042in;height:2.85358in" />
 
 The panel that comes when we log in:
 
-![](RackMultipart20240106-1-sg689f_html_8e567910271a1396.png)
+<img src="./media/image12.png"
+style="width:3.6548in;height:2.16313in" />
 
-![](RackMultipart20240106-1-sg689f_html_5601961d9730aab8.png)
+<img src="./media/image13.png"
+style="width:6.32845in;height:3.68485in" />
 
-This is the image that comes when I click on the Cars tab. I added a query that lists the cars report on the right side by brand and I used Stored Procedure here.
+This is the image that comes when I click on the Cars tab. I added a
+query that lists the cars report on the right side by brand and I used
+Stored Procedure here.
 
-![](RackMultipart20240106-1-sg689f_html_7e60f125e8978d6.png)
+<img src="./media/image14.png"
+style="width:5.38794in;height:1.7028in" />
 
-![](RackMultipart20240106-1-sg689f_html_68c6192bc0bbc379.png)
+<img src="./media/image15.png"
+style="width:5.12875in;height:3.01212in" />
 
-On the left side is the order panel. In the order panel, I added our vehicle's Brand, Model, Color and username query as a security question.
+On the left side is the order panel. In the order panel, I added our
+vehicle's Brand, Model, Color and username query as a security question.
 
-![](RackMultipart20240106-1-sg689f_html_45e136ad99d0b812.png)
+<img src="./media/image16.png"
+style="width:5.53939in;height:3.22541in" />
 
 When we click on the "Place order" button, our order is created.
 
-The panel that appears when we click on the service button. On the left side there is a panel for us to create an appointment request.
+The panel that appears when we click on the service button. On the left
+side there is a panel for us to create an appointment request.
 
-![](RackMultipart20240106-1-sg689f_html_1183d80bd149c9ad.png)
+<img src="./media/image17.png"
+style="width:5.50448in;height:3.18699in" />
 
-![](RackMultipart20240106-1-sg689f_html_66c1efecb34a7ca7.png)
+<img src="./media/image18.png"
+style="width:5.03056in;height:2.93856in" />
 
-This is the image that appears when we click the create request button. I joined two tables using inner join to reflect two different tables to a single datagridview
+This is the image that appears when we click the create request button.
+I joined two tables using inner join to reflect two different tables to
+a single datagridview
 
-![](RackMultipart20240106-1-sg689f_html_9cd6fab7bb81def9.png)
+<img src="./media/image19.png"
+style="width:3.07498in;height:2.92695in" />
 
-The appointment we receive on the left side looks like this After evaluating the condition of the vehicle, the remaining information will be entered by the admin (Price, Delivery Date, Result)
+The appointment we receive on the left side looks like this After
+evaluating the condition of the vehicle, the remaining information will
+be entered by the admin (Price, Delivery Date, Result)
 
 (After Entry)
 
-![](RackMultipart20240106-1-sg689f_html_4edbf563170f756f.png)
+<img src="./media/image20.png"
+style="width:4.52727in;height:3.42588in" />
 
-Now let's look at the admin panel. First of all, when we log in with a username called admin, the admin panel tab welcomes us. We have various buttons on the side, these are Cars, Service, Customers, Backup, Sales and Exit
+Now let's look at the admin panel. First of all, when we log in with a
+username called admin, the admin panel tab welcomes us. We have various
+buttons on the side, these are Cars, Service, Customers, Backup, Sales
+and Exit
 
-![](RackMultipart20240106-1-sg689f_html_d1911713d3bb27bf.png)
+<img src="./media/image21.png"
+style="width:4.57576in;height:2.6316in" />
 
-First of all, let's start with the Cars panel. This is how the panel looks like. There are Add Car, Update Price and Remove Car Buttons.
+First of all, let's start with the Cars panel. This is how the panel
+looks like. There are Add Car, Update Price and Remove Car Buttons.
 
-![](RackMultipart20240106-1-sg689f_html_5914baf50f488418.png)
+<img src="./media/image22.png"
+style="width:3.78679in;height:2.19407in" />
 
-When we press the Add Car button, this form welcomes us, after entering the car properties we want, when we press the add button, our car is added. I used the Insert query in this section.
+When we press the Add Car button, this form welcomes us, after entering
+the car properties we want, when we press the add button, our car is
+added. I used the Insert query in this section.
 
-![](RackMultipart20240106-1-sg689f_html_bb8b7f265c16b5d1.png)
+<img src="./media/image23.png"
+style="width:1.55758in;height:2.29055in" />
 
 If we enter the desired information, the vehicle is added to our table.
 
-![](RackMultipart20240106-1-sg689f_html_50ab21e4d30aff14.png)
+<img src="./media/image24.png"
+style="width:4.20509in;height:2.44849in" />
 
 When we press the Update Price button, this form welcomes us.
 
-![](RackMultipart20240106-1-sg689f_html_9ff8b97c8d7a542c.png)
+<img src="./media/image25.png"
+style="width:1.99709in;height:2.09987in" />
 
-We enter the new price of our vehicle by selecting the values in the comboboxes and the price of our vehicle has changed.
+We enter the new price of our vehicle by selecting the values in the
+comboboxes and the price of our vehicle has changed.
 
-![](RackMultipart20240106-1-sg689f_html_93b9a1d71acdf091.png)
+<img src="./media/image26.png"
+style="width:5.65303in;height:3.2303in" />
 
-Finally, with the Delete query, the car with the selected id is deleted and then the deleted vehicle is added to the Deleted Cars Table with the trigger I wrote, and the Deleted Cars button shows us this table.
+Finally, with the Delete query, the car with the selected id is deleted
+and then the deleted vehicle is added to the Deleted Cars Table with the
+trigger I wrote, and the Deleted Cars button shows us this table.
 
-![](RackMultipart20240106-1-sg689f_html_72fe386e81a5aa78.png) ![](RackMultipart20240106-1-sg689f_html_4eb7e16d750b558.png)
+<img src="./media/image27.png"
+style="width:6.29722in;height:2.10278in" /><img src="./media/image28.png" style="width:6.29583in;height:3.5in" />
 
-![](RackMultipart20240106-1-sg689f_html_7f63b20f82fe908e.png)
+<img src="./media/image29.png" style="width:6.3in;height:1.3in" />
 
-![](RackMultipart20240106-1-sg689f_html_c2e71e048595a4e1.png)
+<img src="./media/image30.png"
+style="width:6.29444in;height:3.67639in" />
 
-In the service part, we manually enter the missing information in this way, that is, the date on which our vehicle will leave the service, the service price and the service result. And the values we enter are added to the table, here I used the update query.
+In the service part, we manually enter the missing information in this
+way, that is, the date on which our vehicle will leave the service, the
+service price and the service result. And the values we enter are added
+to the table, here I used the update query.
 
-![](RackMultipart20240106-1-sg689f_html_d7bde570d9f9fd25.png)
+<img src="./media/image31.png"
+style="width:6.29444in;height:3.66181in" />
 
-In the customers section, I added 2 listing methods, one according to the name we entered and the other according to all customers. In the all customers section, I used the customer table directly in the customer table and the stored procedure in the according to the name section. ![](RackMultipart20240106-1-sg689f_html_7467be9a7547e512.png)
+In the customers section, I added 2 listing methods, one according to
+the name we entered and the other according to all customers. In the all
+customers section, I used the customer table directly in the customer
+table and the stored procedure in the according to the name section.
+<img src="./media/image32.png"
+style="width:3.10236in;height:1.08364in" />
 
-![](RackMultipart20240106-1-sg689f_html_1c9caf904a1e5978.png) ![](RackMultipart20240106-1-sg689f_html_3919beeb2db0bce9.png) ![](RackMultipart20240106-1-sg689f_html_3ab4f95caf466946.png)
+<img src="./media/image33.png"
+style="width:4.20462in;height:2.44094in" /><img src="./media/image34.png"
+style="width:4.20939in;height:2.44882in" /><img src="./media/image35.png"
+style="width:4.19685in;height:2.44153in" />
 
-When we click on the button, I wrote a code that saves the database with .bak extension to the backups folder in C. I think I will add a return from backup button as soon as possible.
+When we click on the button, I wrote a code that saves the database with
+.bak extension to the backups folder in C. I think I will add a return
+from backup button as soon as possible.
 
-![](RackMultipart20240106-1-sg689f_html_a5572ef38d3a1e95.png) ![](RackMultipart20240106-1-sg689f_html_fb0910e3fdba18f8.png)
+<img src="./media/image36.png"
+style="width:6.29722in;height:1.75139in" /><img src="./media/image37.png"
+style="width:6.29583in;height:3.67153in" />
 
-The sales section is a report that shows how many vehicles sold in total. I wrote a stored procedure in this section. ![](RackMultipart20240106-1-sg689f_html_ea742de5d8396856.png)
+The sales section is a report that shows how many vehicles sold in
+total. I wrote a stored procedure in this section.
+<img src="./media/image38.png"
+style="width:6.29028in;height:2.13681in" />
 
-In the procedure I wrote, I asked the Sales table to count the total number of that vehicle model in the Sales table and assign it to the table named TotelSales, and I created a table containing the vehicle model and total sales columns.
+In the procedure I wrote, I asked the Sales table to count the total
+number of that vehicle model in the Sales table and assign it to the
+table named TotelSales, and I created a table containing the vehicle
+model and total sales columns.
 
-![](RackMultipart20240106-1-sg689f_html_5d6e02c34ae1c266.png)
+<img src="./media/image39.png"
+style="width:6.29028in;height:3.63264in" />
 
 Back buttons take us to the Login form.
 
-I will try to add the options to save the data as pdf and assign the txt file to the table as soon as possible.
+I will try to add the options to save the data as pdf and assign the txt
+file to the table as soon as possible.
