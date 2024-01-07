@@ -6,8 +6,7 @@ tables are
 needed.
 
 After making a few additions, I decided on the tables to be created.
-Then we drew the ER Diagram before creating these tables, this task was
-undertaken by my friend Ender.
+Then we drew the ER Diagram before creating these tables.
 
 ![](./media/image2.png)
 
