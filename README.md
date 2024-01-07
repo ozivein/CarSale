@@ -3,8 +3,7 @@ style="width:11.6913in;height:0.88298in" />
 
 First of all, I made the necessary analyzes. I made a list of which
 tables are
-needed.<img src="./media/image1.jpeg" style="width:6.29722in;height:8.39375in"
-alt="C:\Users\oguzh\AppData\Local\Microsoft\Windows\INetCache\Content.Word\WhatsApp Image 2024-01-05 at 04.18.45_50822486.jpg" />
+needed.
 
 After making a few additions, I decided on the tables to be created.
 Then we drew the ER Diagram before creating these tables, this task was
