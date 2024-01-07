@@ -1,5 +1,4 @@
-<img src="./43fea6f1ce0be7ff03d135f36e96792d8e52f82c.png"
-style="width:11.6913in;height:0.88298in" />
+
 
 First of all, I made the necessary analyzes. I made a list of which
 tables are
